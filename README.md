@@ -1,2 +1,2 @@
 # QuizMaster
-Um jogo de perguntas elaborado focamente em javascript
+Um jogo de perguntas elaborado focado em javascript
